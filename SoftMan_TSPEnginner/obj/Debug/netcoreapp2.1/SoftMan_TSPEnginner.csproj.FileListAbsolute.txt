@@ -1,0 +1,16 @@
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\bin\Debug\netcoreapp2.1\appsettings.json
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\bin\Debug\netcoreapp2.1\SoftMan_TSPEnginner.deps.json
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\bin\Debug\netcoreapp2.1\SoftMan_TSPEnginner.runtimeconfig.json
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\bin\Debug\netcoreapp2.1\SoftMan_TSPEnginner.runtimeconfig.dev.json
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\bin\Debug\netcoreapp2.1\SoftMan_TSPEnginner.dll
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\obj\Debug\netcoreapp2.1\SoftMan_TSPEnginner.RazorAssemblyInfo.cache
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\obj\Debug\netcoreapp2.1\SoftMan_TSPEnginner.RazorAssemblyInfo.cs
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\obj\Debug\netcoreapp2.1\SoftMan_TSPEnginner.AssemblyInfoInputs.cache
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\obj\Debug\netcoreapp2.1\SoftMan_TSPEnginner.AssemblyInfo.cs
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\obj\Debug\netcoreapp2.1\SoftMan_TSPEnginner.RazorTargetAssemblyInfo.cache
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\bin\Debug\netcoreapp2.1\SoftMan_TSPEnginner.pdb
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\obj\Debug\netcoreapp2.1\SoftMan_TSPEnginner.dll
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\obj\Debug\netcoreapp2.1\SoftMan_TSPEnginner.pdb
+C:\MicrosoftVisualStudio\SoftMan_TSPEnginner\SoftMan_TSPEnginner\obj\Debug\netcoreapp2.1\SoftMan_TSPEnginner.csprojAssemblyReference.cache
